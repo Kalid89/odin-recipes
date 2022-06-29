@@ -1,1 +1,1 @@
-# odin-recipes
+It's time now to put all of the HTML knowledge i have acquired into practice.I am going to build a basic recipe website.Once completed I will demonstrate my new acquired skill like basic knowledge of the HTTP language, basic knowledge of Git commands necessary for a basic workflow.
